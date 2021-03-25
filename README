@@ -1,7 +1,0 @@
-# GreenScreen
-Create a webpage to upload image and implement green screen algorithm
-
-HTML, CSS and JavaScript are used. 
-Upload foreground image that has green background
-Upload background image as a backgroud to the foreground image
-Create composite and clear canvas to try with other images
